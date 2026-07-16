@@ -1,0 +1,4 @@
+dept,total_salary,total_revenue,total_employees,total_students,total_capacity,profit_loss,capacity_utilisation_%,students_per_mentor,suggestion
+cse,8000000.0,400000.0,2,2,3,-7600000.0,66.66666666666666,1.0,No requirement
+ece,300000.0,400000.0,2,2,2,100000.0,100.0,1.0,No requirement
+eee,100000.0,300000.0,1,2,1,200000.0,200.0,2.0,No requirement

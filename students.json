@@ -1,0 +1,226 @@
+[
+    {
+        "Student ID": "abc",
+        "Student Name": "abc",
+        "Student Age": "5",
+        "Student Course": "ml"
+    },
+    {
+        "Student ID": "def",
+        "Student Name": "def",
+        "Student Age": "7",
+        "Student Course": "ml"
+    },
+    {
+        "Student ID": "11",
+        "Student Name": "abc",
+        "Student Age": "22",
+        "Student Course": "ml"
+    },
+    {
+        "Student ID": "44",
+        "Student Name": "bcd",
+        "Student Age": "22",
+        "Student Course": "ml"
+    },
+    {
+        "Student ID": "11",
+        "Student Name": "abc",
+        "Student Age": "11",
+        "Student Course": "ml"
+    },
+    {
+        "Student ID": "44",
+        "Student Name": "def",
+        "Student Age": "22",
+        "Student Course": "ml"
+    },
+    {
+        "Student ID": "101",
+        "Student Name": "ram",
+        "Student Age": "20",
+        "Student Course": "ai"
+    },
+    {
+        "Student ID": "102",
+        "Student Name": "diya",
+        "Student Age": "20",
+        "Student Course": "ml"
+    },
+    {
+        "Student ID": "103",
+        "Student Name": "dheeraj",
+        "Student Age": "21",
+        "Student Course": "ai"
+    },
+    {
+        "Student ID": "104",
+        "Student Name": "rita",
+        "Student Age": "20",
+        "Student Course": "cse"
+    },
+    {
+        "Student ID": "105",
+        "Student Name": "sne",
+        "Student Age": "20",
+        "Student Course": "ece"
+    },
+    {
+        "Student ID": "106",
+        "Student Name": "deepa",
+        "Student Age": "20",
+        "Student Course": "eee"
+    },
+    {
+        "Student ID": "107",
+        "Student Name": "yogi",
+        "Student Age": "21",
+        "Student Course": "cse"
+    },
+    {
+        "Student ID": "108",
+        "Student Name": "anu",
+        "Student Age": "20",
+        "Student Course": "cse"
+    },
+    {
+        "Student ID": "109",
+        "Student Name": "shrey",
+        "Student Age": "20",
+        "Student Course": "cse"
+    },
+    {
+        "Student ID": "110",
+        "Student Name": "madhu",
+        "Student Age": "20",
+        "Student Course": "eee"
+    },
+    {
+        "Student ID": "1001",
+        "Student Name": "rahul",
+        "Student Age": "20",
+        "Student Course": "aiml",
+        "Student Department": "aiml"
+    },
+    {
+        "Student ID": "1002",
+        "Student Name": "dyu",
+        "Student Age": "21",
+        "Student Course": "ece",
+        "Student Department": "ece"
+    },
+    {
+        "Student ID": "1003",
+        "Student Name": "sneh",
+        "Student Age": "20",
+        "Student Course": "eee",
+        "Student Department": "eee"
+    },
+    {
+        "Student ID": "1004",
+        "Student Name": "adi",
+        "Student Age": "21",
+        "Student Course": "cse",
+        "Student Department": "cse"
+    },
+    {
+        "Student ID": "1005",
+        "Student Name": "aditi",
+        "Student Age": "20",
+        "Student Course": "cse",
+        "Student Department": "cse"
+    },
+    {
+        "Student ID": "01",
+        "Student Name": "asha",
+        "Student Age": "20",
+        "Student Course": "cse"
+    },
+    {
+        "Student ID": "10",
+        "Student Name": "shilpa",
+        "Student Age": "20",
+        "Student Course": "ece"
+    },
+    {
+        "Student ID": "301",
+        "Student Name": "abc",
+        "Student Age": "21",
+        "Student Course": "cse"
+    },
+    {
+        "Student ID": "310",
+        "Student Name": "def",
+        "Student Age": "21",
+        "Student Course": "eee"
+    },
+    {
+        "Student ID": "10001",
+        "Student Name": "xyz",
+        "Student Age": "23",
+        "Student Course": "ece"
+    },
+    {
+        "Student ID": "01",
+        "Student Name": "adi",
+        "Student Age": "20",
+        "Student Course": "CSE",
+        "Student Fees": "5000000"
+    },
+    {
+        "Student ID": "02",
+        "Student Name": "aditi",
+        "Student Age": "20",
+        "Student Course": "ECE",
+        "Student Fees": "3000000"
+    },
+    {
+        "Student ID": "03",
+        "Student Name": "dli",
+        "Student Age": "21",
+        "Student Course": "EEE",
+        "Student Fees": "2000000"
+    },
+    {
+        "Student ID": "04",
+        "Student Name": "jas",
+        "Student Age": "21",
+        "Student Course": "CSE",
+        "Student Fees": "5000000"
+    },
+    {
+        "Student ID": "05",
+        "Student Name": "anu",
+        "Student Age": "20",
+        "Student Course": "ECE",
+        "Student Fees": "3000000"
+    },
+    {
+        "Student ID": "01",
+        "Student Name": "adi",
+        "Student Age": "20",
+        "Student Course": "CSE",
+        "Student Fees": "5000000"
+    },
+    {
+        "Student ID": "02",
+        "Student Name": "aditi",
+        "Student Age": "21",
+        "Student Course": "ECE",
+        "Student Fees": "3000000"
+    },
+    {
+        "Student ID": "101",
+        "Student Name": "shrey",
+        "Student Age": "30",
+        "Student Course": "EEE",
+        "Student Fees": "2000000"
+    },
+    {
+        "Student ID": "105",
+        "Student Name": "deep",
+        "Student Age": "25",
+        "Student Course": "EEE",
+        "Student Fees": "20000000"
+    }
+]
